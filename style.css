@@ -30,18 +30,18 @@ a{
     position: relative; /* 추가 */
 }
 
-.dropdown{
+/* .dropdown{
     display:none;
     position:absolute;
-    background-color:#ccc; /* 배경색 추가 */
-}
+    background-color:#ccc;
+} */
 
 .menu-item:hover{
     border-bottom:3px solid blue;
     box-sizing:border-box;
 }
 
-.menu-item:hover .dropdown{
+/* .menu-item:hover .dropdown{
     display:block;
 }
 
@@ -49,4 +49,4 @@ a{
     border-bottom:0px;
     background-color:#555;
     box-sizing:border-box;
-}
+} */
