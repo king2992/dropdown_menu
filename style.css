@@ -30,16 +30,16 @@ a{
     position: relative; /* 추가 */
 }
 
+.menu-item:hover{
+    border-bottom:3px solid blue;
+    box-sizing:border-box;
+}
+
 /* .dropdown{
     display:none;
     position:absolute;
     background-color:#ccc;
 } */
-
-.menu-item:hover{
-    border-bottom:3px solid blue;
-    box-sizing:border-box;
-}
 
 /* .menu-item:hover .dropdown{
     display:block;
